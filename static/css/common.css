@@ -1,0 +1,15 @@
+.page{
+	display: inline-block;
+	width: 100%;
+	min-height: 100%;
+}
+.page:focus{
+	outline:none;
+}
+
+.header{
+	display:inline-block;
+	width: 100%;
+	height: 60px;
+	position: relative;
+}
